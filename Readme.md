@@ -4,7 +4,7 @@
 
 ** Esta implementación surge de la pregunta sobre las posibilidades de usar webMidi en diferentes controladores midi para usar con hydra.
 
-**MIDI: Musical Instrument Digital Interface**
+**MIDI: Musical Instrument Digital Interface**<br>
 MIDI es un estándar tecnológico que describe un protocolo, una interfaz digital y conectores que permiten que varios instrumentos musicales electrónicos, ordenadores y otros dispositivos relacionados se conecten y comuniquen entre sí.
 
 **HYDRA**<br>
@@ -16,7 +16,7 @@ Nota: experimental/en desarrollo.
 
 Para obtener más información, consulte la introducción, el pdf de introducción, los tutoriales y ejemplos, la lista completa de funciones, la galería de bocetos generados por los usuarios o una charla sobre las motivaciones para crear Hydra.
 
-Referencias:
+**Referencias:**
 
 * https://github.com/hydra-synth/hydra
 
