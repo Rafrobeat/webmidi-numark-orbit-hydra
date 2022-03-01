@@ -345,21 +345,21 @@ function onMIDIFailure() {
 }
 
 //create an array to hold our cc values and init to a normalized value
-var cc = Array(128).fill(0.5)
+var ccValue = Array(128).fill(0.5)
 
 getMIDIMessage = function(midiMessage) {
   var arr = midiMessage.data
   var status = arr[0]
   var cc = arr[1]
-  var channel = arr[2]
+  var value = arr[2]
   // uncomment to monitor incoming Midi
-  console.log('Midi received - Status: ' + status + ', CC: ' + cc + ', Channel: ' + channel)
+  console.log('Midi received - Status: ' + status + ', CC: ' + cc + ', Channel: ' + value)
   var val = (arr[2] + 1) / 128.0 // normalize CC values to 0.0 - 1.0
-  cc[cc] = val
+  ccValue[cc] = val
 
   // select k pads
   if (status == 191 && cc == 2) {
-    switch (channel) {
+    switch (value) {
       case 1:
         console.log('k1');
         break;
@@ -379,7 +379,7 @@ getMIDIMessage = function(midiMessage) {
 
   // select channels
   if (status == 191 && cc == 1) {
-    switch (channel) {
+    switch (value) {
       case 1:
         console.log('channel 1');
         break;
