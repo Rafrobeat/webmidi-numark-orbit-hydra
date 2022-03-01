@@ -4,10 +4,10 @@
 
 ** Esta implementación surge de la pregunta sobre las posibilidades de usar webMidi en diferentes controladores midi para usar con hydra.
 
-MIDI: Musical Instrument Digital Interface
+**MIDI: Musical Instrument Digital Interface**
 MIDI es un estándar tecnológico que describe un protocolo, una interfaz digital y conectores que permiten que varios instrumentos musicales electrónicos, ordenadores y otros dispositivos relacionados se conecten y comuniquen entre sí.
 
-HYDRA
+**HYDRA**<br>
 Conjunto de herramientas para la codificación en vivo de imágenes en red. Inspiradas en los sintetizadores modulares analógicos, estas herramientas son una exploración del uso de la transmisión por Internet para enrutar fuentes y salidas de video en tiempo real.
 
 Hydra usa múltiples framebuffers para permitir mezclar, componer y colaborar dinámicamente entre flujos visuales de navegador conectados. Las transformaciones de coordenadas y colores se pueden aplicar a cada salida a través de funciones encadenadas.
@@ -38,7 +38,7 @@ https://www.youtube.com/watch?v=wd5Pv-2h9xs
 
 ![MIDI Numark ORBIT](numark_orbit_basic_midi.jpg)
 
-Generalidades:
+**Generalidades:**
 
 - Se debe correr el código en la consola del navegador donde se vaya a usar hydra.
 
