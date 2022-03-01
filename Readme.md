@@ -2,7 +2,7 @@
 
 # webMidi para usar Numark Orbit con Hydra
 
-** Esta implementación surge de la pregunta sobre las posibilidades de usar webMidi en diferentes controladores midi para usar con hydra.
+** Esta implementación surge de la pregunta sobre las posibilidades de usar webMidi en diferentes controladores midi para usar con hydra, aunque en teoría se puede usar con cualquier proyecto webMidi.
 
 **MIDI: Musical Instrument Digital Interface**<br>
 MIDI es un estándar tecnológico que describe un protocolo, una interfaz digital y conectores que permiten que varios instrumentos musicales electrónicos, ordenadores y otros dispositivos relacionados se conecten y comuniquen entre sí.
