@@ -1,6 +1,6 @@
 ![Numark ORBIT](orbit_inhands.jpg)
 
-[![¿Cómo funcion el Numark ORBIT con Hydra?](https://img.youtube.com/vi/aOqPXORkESE.jpg)](https://www.youtube.com/watch?v=aOqPXORkESE "¿Cómo funcion el Numark ORBIT con Hydra")
+[![¿Cómo funcion el Numark ORBIT con Hydra?](https://img.youtube.com/vi/aOqPXORkESE/0.jpg)](https://www.youtube.com/watch?v=aOqPXORkESE "¿Cómo funcion el Numark ORBIT con Hydra")
 
 
 # webMidi para usar Numark Orbit con Hydra
