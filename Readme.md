@@ -1,5 +1,8 @@
 ![Numark ORBIT](orbit_inhands.jpg)
 
+[![¿Cómo funcion el Numark ORBIT con Hydra?](https://img.youtube.com/vi/aOqPXORkESE.jpg)](https://www.youtube.com/watch?v=aOqPXORkESE "¿Cómo funcion el Numark ORBIT con Hydra")
+
+
 # webMidi para usar Numark Orbit con Hydra
 
 ** Esta implementación surge de la pregunta sobre las posibilidades de usar webMidi en diferentes controladores midi para usar con hydra, aunque en teoría se puede usar con cualquier proyecto webMidi.
